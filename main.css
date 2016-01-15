@@ -1,0 +1,20 @@
+* {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+
+div{
+	height: 100px;
+	width: 200px;
+	margin: 10px;
+	padding: 10px;
+	display: inline;
+}
+.amarillo{
+	background-color: yellow;
+}
+.rojo{
+	background-color: red;
+}
